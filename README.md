@@ -37,10 +37,10 @@
 
 ## 📫 Let's Connect
 - **Email**: [nifrawahaj01@gmail.com](mailto:nifrawahaj01@gmail.com)  
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NifraWahaj&show_icons=true&theme=radical)
 
-<!--
+
 **NifraWahaj/NifraWahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
