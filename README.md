@@ -16,15 +16,29 @@
 ---
 
 ## 🌟 Projects
-### 🎯 Featured Projects
-- **[Medicine Management App]([https://github.com/your-repo-link](https://github.com/NifraWahaj/MedTrackV2))**  
-   A comprehensive app to manage medication reminders and user interactions with an admin panel.
+- **[Viridian](https://github.com/NifraWahaj/Viridian)**  
+   A social cataloging app for logging, rating, and reviewing films while engaging with a community of film enthusiasts.  
+   *Tech Stack*: MongoDB, ExpressJS, NodeJS, ReactJS
+
+- **[MedTrackV2](https://github.com/NifraWahaj/MedTrackV2)**  
+   A medication tracker and health-focused blog platform for users to manage medications, receive alerts, and engage in a supportive community.  
+   *Tech Stack*: Java, Firebase
+
+- **[Pharmacy POS](https://github.com/itsahmadzia/POS)**  
+   A robust pharmacy point-of-sale desktop application featuring inventory tracking, role-based access, and TDD practices.  
+   *Tech Stack*: Java Swing  
+
+- **[Gelato-e-Caffe](https://github.com/NifraWahaj/Gelato-e-Caffe/)**  
+   A website platform for customers to explore the menu, order, reserve, and leave reviews while enabling the cafe to manage operations seamlessly.  
+   *Tech Stack*: HTML, CSS, JavaScript, Python (Flask)  
+
+  
 ---
 
 ## 📫 Let's Connect
-- **Email**: [your-email@example.com](mailto:nifrawahaj01@gmail.com)  
+- **Email**: [nifrawahaj01@gmail.com](mailto:nifrawahaj01@gmail.com)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?NifraWahaj=NifraWahaj&show_icons=true&theme=radical)
 
 <!--
 **NifraWahaj/NifraWahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
