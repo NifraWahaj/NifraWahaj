@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Natural Language Processing (NLP), IoT (Internet of Things)**
 
-- 👨‍💻 All of my projects are available at [[github.com/NifraWahaj](github.com/NifraWahaj?tab=repositories))]
+- 👨‍💻 All of my projects are available at [[github.com/NifraWahaj](?tab=repositories))]
 - 📫 How to reach me **https://www.linkedin.com/in/nifra-wahaj/**
 
 <br/>
