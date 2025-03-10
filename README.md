@@ -58,4 +58,5 @@
 <h3 align="left">My Activity:</h3>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NifraWahaj&show_icons=true&theme=bear" width = 400>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NifraWahaj&theme=dark" alt="GitHub Streak" /></a></p>
+</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NifraWahaj&theme=dark)](https://git.io/streak-stats)
