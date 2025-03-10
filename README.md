@@ -1,8 +1,19 @@
-# 👋 Hi there! I'm Nifra  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Nifra+Wahaj)](https://git.io/typing-svg)
 
----
+<br/>
+<h3 align="left">What Do I Do?</h3>
 
-## Skills and Technologies
+- 🔭 I’m currently working on [Talk2Sign](https://nifrawahaj.github.io/Talk2Sign-/)
+
+- 🌱 I’m currently learning **Machine Learning, **
+
+- 👨‍💻 All of my projects are available at [github.com/NifraWahaj](github.com/NifraWahaj)
+
+- 📫 How to reach me **https://www.linkedin.com/in/nifra-wahaj/**
+
+<br/>
+
+## Languages and Tools
 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
@@ -43,32 +54,9 @@
 
 ---
 
-## 🌟 Projects
 
-### Web Development
-- **[Viridian](https://github.com/NifraWahaj/Viridian)**  
-  A social cataloging app for logging, rating, and reviewing films while engaging with a community of film enthusiasts.  
-  *Tech Stack*: MongoDB, ExpressJS, NodeJS, ReactJS
-
-### Mobile Development
-- **[MedTrackV2](https://github.com/NifraWahaj/MedTrackV2)**  
-  A medication tracker and health-focused blog platform for users to manage medications, receive alerts, and engage in a supportive community.  
-  *Tech Stack*: Java, Firebase
-
-### Desktop Applications
-- **[Pharmacy POS](https://github.com/itsahmadzia/POS)**  
-  A robust pharmacy point-of-sale desktop application featuring inventory tracking, role-based access, and TDD practices.  
-  *Tech Stack*: Java Swing  
-
-### Web Platforms
-- **[Gelato-e-Caffe](https://github.com/NifraWahaj/Gelato-e-Caffe/)**  
-  A website platform for customers to explore the menu, order, reserve, and leave reviews while enabling the cafe to manage operations seamlessly.  
-  *Tech Stack*: HTML, CSS, JavaScript, Python (Flask)  
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nifra-wahaj/)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NifraWahaj&show_icons=true&theme=radical)
+<h3 align="left">My Activity:</h3>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NifraWahaj&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=NifraWahaj&theme=dark&hide_border=true" width = 400>
+</p>
