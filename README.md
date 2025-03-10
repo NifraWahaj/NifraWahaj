@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Talk2Sign](https://nifrawahaj.github.io/Talk2Sign-/)
 
-- 🌱 I’m currently learning **Machine Learning, **
+- 🌱 I’m currently learning **Machine Learning, Natural Language Processing (NLP), IoT (Internet of Things)**
 
 - 👨‍💻 All of my projects are available at [github.com/NifraWahaj](github.com/NifraWahaj)
 
