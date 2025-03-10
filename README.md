@@ -52,11 +52,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
-
-
-<h3 align="left">My Activity:</h3>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NifraWahaj&show_icons=true&theme=bear" width = 400>
-</p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NifraWahaj&theme=dark)](https://git.io/streak-stats)
