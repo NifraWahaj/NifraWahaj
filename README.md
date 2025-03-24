@@ -51,4 +51,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![snake gif](https://github.com/NifraWahaj/NifraWahaj/blob/output/github-contribution-grid-snake.gif)
