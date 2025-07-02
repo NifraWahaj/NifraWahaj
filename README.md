@@ -1,17 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Nifra+Wahaj)](https://git.io/typing-svg)
 
 <br/>
-<h3 align="left">What Do I Do?</h3>
-
-- 🔭 I’m currently working on [Talk2Sign](https://nifrawahaj.github.io/Talk2Sign-/)
-
-- 🌱 I’m currently learning **Machine Learning, Natural Language Processing (NLP), IoT (Internet of Things)**
-
-- 👨‍💻 All of my projects are available at [github.com/NifraWahaj](https://github.com/NifraWahaj?tab=repositories)
-- 📫 How to reach me **https://www.linkedin.com/in/nifra-wahaj/**
-
-<br/>
-
 ## Languages and Tools
 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
