@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Nifra+Wahaj)](https://git.io/typing-svg)
 
 <br/>
-## Languages and Tools
+Languages and Tools
 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
