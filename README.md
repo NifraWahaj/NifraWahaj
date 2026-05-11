@@ -21,7 +21,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [linkedin.com/in/nifrawahaj](https://linkedin.com/in/nifra-wahaj)
 - Email: [nifrawahaj01@gmail.com](mailto:nifrawahaj01@gmail.com)
