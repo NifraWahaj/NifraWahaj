@@ -13,9 +13,15 @@
 
 **Stack**
 
-`Python` · `Java` · `SQL` · `FastAPI` · `Next.js` · `LLM agents` · `RAG` · `PostgreSQL`
-
-**Contact**
-
-Portfolio → [nifrawahaj.github.io](https://nifrawahaj.github.io)
-Say hi → [nifrawahaj@gmail.com](mailto:nifrawahaj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nifra-wahaj)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=WHITE" alt="sql"/>
+  <img src="https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
+</p>
